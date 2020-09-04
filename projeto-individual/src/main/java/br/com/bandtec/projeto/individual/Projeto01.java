@@ -32,8 +32,6 @@ public class Projeto01 extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jProgressBar3 = new javax.swing.JProgressBar();
-        jLabel2 = new javax.swing.JLabel();
         lbTexto1 = new javax.swing.JLabel();
         prgBarraDisco = new javax.swing.JProgressBar();
         lbTexto2 = new javax.swing.JLabel();
@@ -53,8 +51,6 @@ public class Projeto01 extends javax.swing.JFrame {
         lbMaxDisco = new javax.swing.JLabel();
         lbMaxMemoria = new javax.swing.JLabel();
         lbMediaDisco = new javax.swing.JLabel();
-
-        jLabel2.setText("jLabel2");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -333,8 +329,6 @@ public class Projeto01 extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnAcao1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JProgressBar jProgressBar3;
     private javax.swing.JLabel lbMaxCPU;
     private javax.swing.JLabel lbMaxDisco;
     private javax.swing.JLabel lbMaxMemoria;
